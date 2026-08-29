@@ -3,8 +3,6 @@
 
 # Hi there, I'm Maha Vishnu 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Python+%26+Java+Developer;Problem+Solver+%7C+LeetCode;Passionate+Learner)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -19,3 +17,14 @@ const Mahavishnu = {
   tools: ["Linux", "Git", "VS Code", "Burp Suite", "Wireshark"],
   currentFocus: "Building secure applications and solving LeetCode problems"
 };
+
+🎓 Education: Pursuing B.E. in Computer Science and Engineering
+💻 Passionate about: Cybersecurity, Web Security & Software Development
+🎯 Goals: Contributing to open-source and mastering Data Structures & Algorithms
+
+Tech Stack & Tools
+💻 Languages
+PythonJavaCJavaScriptHTML5
+
+🛡️ Security & Tools
+LinuxGitGitHubVS Code
