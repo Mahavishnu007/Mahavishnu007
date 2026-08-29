@@ -22,9 +22,4 @@ const Mahavishnu = {
 💻 Passionate about: Cybersecurity, Web Security & Software Development
 🎯 Goals: Contributing to open-source and mastering Data Structures & Algorithms
 
-Tech Stack & Tools
-💻 Languages
-PythonJavaCJavaScriptHTML5
 
-🛡️ Security & Tools
-LinuxGitGitHubVS Code
