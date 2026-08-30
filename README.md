@@ -17,9 +17,3 @@ const Mahavishnu = {
   tools: ["Linux", "Git", "VS Code", "Burp Suite", "Wireshark"],
   currentFocus: "Building secure applications and solving LeetCode problems"
 };
-
-🎓 Education: Pursuing B.E. in Computer Science and Engineering
-💻 Passionate about: Cybersecurity, Web Security & Software Development
-🎯 Goals: Contributing to open-source and mastering Data Structures & Algorithms
-
-
