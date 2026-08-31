@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Maha Vishnu 👋
+# Hi there 👋 I'm Maha Vishnu
+
+### Cybersecurity & Backend Development Enthusiast
 
 </div>
 
@@ -16,3 +18,44 @@ const Mahavishnu = {
   tools: ["Linux", "Git", "VS Code", "Burp Suite", "Wireshark"],
   currentFocus: "Building secure applications and solving LeetCode problems"
 };
+```
+
+- 🎓 Pursuing B.E. in Computer Science and Engineering (Cybersecurity) at Dr.N.G.P Institute of Technology.
+- 💼 Completed industrial exposure training as a **Cybersecurity Intern** at Cyfotok Infosec LLP.
+- 🎯 Certified **Red Team Practitioner** and Cybersecurity Career Starter (CCSC).
+
+---
+
+### 💻 Technical Skills
+
+**Languages:** Python, Java, C, JavaScript  
+**Tools & Platforms:** Linux, Git, VS Code, Burp Suite, Wireshark  
+**Focus Areas:** Cybersecurity, Network Defense, WAF Design, Backend Development, Data Structures & Algorithms
+
+---
+
+### 🎯 Current Goals
+
+- 🔐 Contributing to open-source security projects
+- 📊 Mastering Data Structures & Algorithms
+- 🏗️ Building robust and secure backend systems
+- 🔍 Deepening expertise in cybersecurity
+
+---
+
+### 💼 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/PYTHON-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+---
+### 📊 Metrics & Trackers
+
+[![Mahavishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahavishnu007&show_icons=true&theme=dark)](https://github.com/Mahavishnu007)
+
+
