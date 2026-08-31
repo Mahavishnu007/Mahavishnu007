@@ -63,9 +63,9 @@ const mahaVishnu = {
 </a>
 <br><br>
 
-<!-- TryHackMe Official Badge -->
-<a href="https://tryhackme.com/p/MAHAVISHNU007">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MAHAVISHNU007.png" alt="TryHackMe Badge" />
+<!-- TryHackMe Profile Badge -->
+<a href="https://tryhackme.com/p/MAHAVISHNU007" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TryHackMe-MAHAVISHNU007-1E2A3A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile Badge" />
 </a>
 
 
