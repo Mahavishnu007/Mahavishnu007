@@ -53,9 +53,6 @@ const Mahavishnu = {
 ![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
----
-### 📊 Metrics & Trackers
 
-[![Mahavishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahavishnu007&show_icons=true&theme=dark)](https://github.com/Mahavishnu007)
 
 
