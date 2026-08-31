@@ -8,25 +8,25 @@
 
 ---
 
-### 🛡️ About Me
+## 🛡️ About Me
 
 ```javascript
-const Mahavishnu = {
-  pronouns: "He / Him",
+const mahaVishnu = {
+  pronouns: "He/Him",
   code: ["Python", "Java", "C", "JavaScript"],
-  interests: ["Cybersecurity", "Network Defense","UI/UX Design", "Backend Development"],
+  interests: ["Cybersecurity", "Network Defense", "WAF Design", "Backend Development"],
   tools: ["Linux", "Git", "VS Code", "Burp Suite", "Wireshark"],
-  currentFocus: "Building secure applications and solving LeetCode problems"
+  currentFocus: "Building secure applications and solving DSA problems"
 };
 ```
 
-- 🎓 Pursuing B.E. in Computer Science and Engineering (Cybersecurity) at Dr.N.G.P Institute of Technology.
-- 💼 Completed industrial exposure training as a **Cybersecurity Intern** at Cyfotok Infosec LLP.
-- 🎯 Certified **Red Team Practitioner** and Cybersecurity Career Starter (CCSC).
+- 🎓 Pursuing a B.E. in Computer Science and Engineering (Cybersecurity) at Dr. N.G.P. Institute of Technology.
+- 💼 Completed industrial exposure training as a Cybersecurity Intern at Cyfotok Infosec LLP.
+- 🎯 Certified Red Team Practitioner and Cybersecurity Career Starter (CCSC).
 
 ---
 
-### 💻 Technical Skills
+## 💻 Technical Skills
 
 **Languages:** Python, Java, C, JavaScript  
 **Tools & Platforms:** Linux, Git, VS Code, Burp Suite, Wireshark  
@@ -34,16 +34,16 @@ const Mahavishnu = {
 
 ---
 
-### 🎯 Current Goals
+## 🎯 Current Goals
 
-- 🔐 Contributing to open-source security projects
-- 📊 Mastering Data Structures & Algorithms
-- 🏗️ Building robust and secure backend systems
-- 🔍 Deepening expertise in cybersecurity
+- 🔐 Contribute to open-source security projects
+- 📊 Master Data Structures & Algorithms
+- 🏗️ Build robust and secure backend systems
+- 🔍 Deepen expertise in cybersecurity
 
 ---
 
-### 💼 Tech Stack & Tools
+## 💼 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/PYTHON-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -53,6 +53,19 @@ const Mahavishnu = {
 ![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
+---
 
+## 📊 Metrics & Trackers
+
+<!-- LeetCode Stats Card -->
+<a href="https://leetcode.com/MAHAVISHNU007">
+  <img src="https://leetcard.jacoblin.cool/MAHAVISHNU007?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
+<br><br>
+
+<!-- TryHackMe Official Badge -->
+<a href="https://tryhackme.com/p/MAHAVISHNU007">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/MAHAVISHNU007.png" alt="TryHackMe Badge" />
+</a>
 
 
