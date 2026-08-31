@@ -59,7 +59,7 @@ const mahaVishnu = {
 
 <!-- LeetCode Stats Card -->
 <a href="https://leetcode.com/MAHAVISHNU007">
-  <img src="https://leetcard.jacoblin.cool/MAHAVISHNU007?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/MAHAVISHNU007?theme=dark&font=Fira+Code" alt="LeetCode Stats" />
 </a>
 <br><br>
 
