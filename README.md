@@ -63,41 +63,6 @@ const mahaVishnu = {
 </a>
 <br><br>
 
-<div align="left" style="display:flex; flex-wrap:wrap; gap:36px; align-items:flex-start; margin-top:20px;">
-  <div style="flex:1; min-width:420px;">
-    <div align="left" style="margin-bottom:12px; font-size:28px; font-weight:700; color:#f3f4f6;">
-      🔐 TryHackMe Activity
-    </div>
 
-    <a href="https://tryhackme.com/p/MAHAVISHNU007" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-      <div style="background:linear-gradient(135deg,#0f172a,#111827); border:1px solid #2d3748; border-radius:22px; padding:20px 22px; box-shadow:0 10px 25px rgba(0,0,0,0.25); width:100%; max-width:560px;">
-        <div style="display:flex; align-items:center; justify-content:space-between;">
-          <div style="display:flex; align-items:center; gap:16px;">
-            <div style="width:72px; height:72px; border-radius:50%; background:radial-gradient(circle at 30% 30%, #8ef6ff, #1f3a4c 38%, #0b1220 100%); border:3px solid #4ade80; box-shadow:0 0 18px rgba(74, 222, 128, 0.4); display:flex; align-items:center; justify-content:center; color:#ffffff; font-size:26px; font-weight:700;">M</div>
-            <div>
-              <div style="font-size:30px; font-weight:800; color:#f8fafc; letter-spacing:0.5px;">CyberCracker27</div>
-              <div style="font-size:14px; color:#9fb3c8; margin-top:4px;">tryhackme.com</div>
-            </div>
-          </div>
-
-          <div style="display:flex; align-items:center; gap:8px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); border-radius:999px; padding:8px 12px; color:#e2e8f0; font-size:13px; font-weight:600;">
-            <span style="display:inline-block; width:8px; height:8px; border-radius:50%; background:#22c55e;"></span>
-            0x6
-          </div>
-        </div>
-
-        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:22px; color:#e2e8f0; font-size:16px; font-weight:600; flex-wrap:wrap; gap:10px;">
-          <div style="display:flex; align-items:center; gap:8px;"><span>🏆</span> 349854</div>
-          <div style="display:flex; align-items:center; gap:8px;"><span>📅</span> 14 days</div>
-          <div style="display:flex; align-items:center; gap:8px;"><span>🔥</span> 7</div>
-          <div style="display:flex; align-items:center; gap:8px;"><span>🎯</span> 23</div>
-        </div>
-
-        <div style="margin-top:18px; height:10px; border-radius:999px; background:rgba(255,255,255,0.08); overflow:hidden;">
-          <div style="width:78%; height:100%; border-radius:999px; background:linear-gradient(90deg,#22c55e,#84cc16);"></div>
-        </div>
-      </div>
-    </a>
-  </div>
 
 
